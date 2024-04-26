@@ -478,3 +478,4 @@ contract IXOApp is AppStorageFacet, ERC20StorageFacet, IERC20, ERC721StorageFace
         require(_ownerXRC721(tokenID_) == from_, "ERC721: Not token owner");
     }
 }
+r
