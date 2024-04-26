@@ -1,4 +1,4 @@
-# ERC404Pro [DApp dev preview](https://dev.rwa-wallet.com)
+# ERC404Pro 
 
 ![Screenshot](./screenshot.png)
 
