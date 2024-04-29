@@ -7,7 +7,11 @@ Bring the duality of NFT / FT to your  NFT projects.
 
 We do not open source our frontend code yet, will make it open sources after gain our target users numbers.
 
+## links
 
+* [deck](./ixo-protocol.pdf)
+* [dev demo](https://dev.rwa-wallet.com/ixo/)
+* [video demo:TBD](#)
 
 # The $IXO Protocol components
 
@@ -15,14 +19,20 @@ We do not open source our frontend code yet, will make it open sources after gai
 
 The first Smart Inscription on X Chain. It's the functional token for $IXO Protocol. Required in various situations. No investment value!
 
+![XRC20](./screenshots/xrc20.png)
+
 ## $XRC721
 
 10K Total Supply, The owner of the $XRC721 got a lot of benefit for long run, eg: IXO Sell Income, platform Trading fee sharing.
+
+![XRC721](./screenshots/xrc721.png)
 
 ## $XRC1155
 
 $XRC721 can start IXO via sold $XRC1155 which has the duality of NFT and FT. User can swap 10K FT to get 1 NFT, or swap 1 NFT to get 10K FT.
 Launchpad $XRC1155 new project launch here, It's the feed stream for IXO events, providing a platform for users to discover high-quality $XRC721 projects.
+
+![XRC721](./screenshots/project-list.png)
 
 ## Marketplace
 
