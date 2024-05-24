@@ -2,6 +2,13 @@
 
 ![Screenshot](./screenshot.png)
 
+## links
+
+* [deck](./ixo-protocol.pdf)
+* [Demo](https://www.rwa-wallet.com/ixo/)
+* [video demo in English](#)
+* [video demo in Chinese](#)
+
 ## What is ERC404Pro?
 
 ERC404Pro is an open, mixed ERC-20, ERC-721 and ERC1155 implementation designed to provide native fractionalization while supporting seamless integration with existing protocols.
@@ -23,12 +30,6 @@ IXOProtocol is an implementation of the ERC404Pro.
 3. It mixed ERC-20, ERC-721 and ERC1155 implementation designed to provide a liquidity for every NFT project.
 
 ![Screenshot](./mixed-EIP.png)
-
-## links
-
-* [deck](./ixo-protocol.pdf)
-* [dev demo](https://dev.rwa-wallet.com/ixo/)
-* [video demo:TBD](#)
 
 # The $IXO Protocol components
 
