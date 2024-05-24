@@ -7,7 +7,7 @@
 * [deck](./ixo-protocol.pdf)
 * [Demo](https://www.rwa-wallet.com/ixo/)
 * [video demo in English](https://youtu.be/oU67kkgCCgE)
-* [video demo in Chinese](#)
+* [video demo in Chinese](https://youtu.be/5zubd3AFAfc)
 
 ## What is ERC404Pro?
 
