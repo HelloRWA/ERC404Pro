@@ -2,10 +2,27 @@
 
 ![Screenshot](./screenshot.png)
 
+## What is ERC404Pro?
 
-Bring the duality of NFT / FT to your  NFT projects.
+ERC404Pro is an open, mixed ERC-20, ERC-721 and ERC1155 implementation designed to provide native fractionalization while supporting seamless integration with existing protocols.
 
-We do not open source our frontend code yet, will make it open sources after gain our target users numbers.
+But it is different from the [ERC404](https://github.com/Pandora-Labs-Org/erc404), it use a different logic about NFT / FT swap that bring the duality of NFT / FT to your NFT projects.
+
+IXOProtocol is an implementation of the ERC404Pro.
+
+## How it works in $IXOProtocol?
+
+1. We have 10K $XRC721 NFT in total for our platform, project owner can buy the $XRC721 NFT, then they can use it to init their $XRC1155 project.
+
+![Screenshot](./xrc721.png)
+
+2. Every $XRC1155 project contain `10K NFT` or `10K * ftSwapUnit $FT`, it means 1 NFT can swap with`ftSwapUnit $FT`.
+
+![Screenshot](./xrc1155.png)
+
+3. It mixed ERC-20, ERC-721 and ERC1155 implementation designed to provide a liquidity for every NFT project.
+
+![Screenshot](./mixed-EIP.png)
 
 ## links
 
