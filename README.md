@@ -4,8 +4,10 @@
 
 ## links
 
+* Smart Contract Deployment
+  * [Bsc Testnet](https://testnet.bscscan.com/address/0x90B175B52e36c3BBD6710A370087f97cD6217BDb)
 * [deck](./ixo-protocol.pdf)
-* [Demo](https://www.rwa-wallet.com/ixo/)
+* [Dapp online Demo](https://www.rwa-wallet.com/ixo/)
 * [video demo in English](https://youtu.be/oU67kkgCCgE)
 * [video demo in Chinese](https://youtu.be/5zubd3AFAfc)
 
