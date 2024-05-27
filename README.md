@@ -5,11 +5,24 @@
 ## links
 
 * Smart Contract Deployment
-  * [Bsc Testnet](https://testnet.bscscan.com/address/0x90B175B52e36c3BBD6710A370087f97cD6217BDb)
+  * [Bsc Testnet](https://testnet.bscscan.com/address/0xAB33Aa938EbDFe1CEA7876e0F0C1f8aDFFEa876C)
 * [deck](./ixo-protocol.pdf)
 * [Dapp online Demo](https://www.rwa-wallet.com/ixo/)
 * [video demo in English](https://youtu.be/oU67kkgCCgE)
 * [video demo in Chinese](https://youtu.be/5zubd3AFAfc)
+
+## Challenges
+
+### Challenge 5: Real world asset tokenization on BNB Chain
+
+Our $IXOProtocol can provide a logic for real world assets to issue their token  without coding and provide a very greate liquality and also have NFT features for them.
+It bring real world assets(RWA) to BNB Smart Chain ecosystem.
+Such as we can bind the real estate into $IXOProtocol, and it can issue the house to bind with an NFT, if buy want to buy the whole house, just buy the NFT, but if the buyer do not have enough money to buy it(Also the seller want to sold the house more easily), it can be split into 10K $FT of the house, so buyer can buy only 1/10000 share of the house which is much cheaper for the house then.
+
+### Challenge 6: Points trading system on BNB Chain
+
+The $XRC20 and each project’s $XRC1155 FT also can be thread as a points system that record the activitly users for each projects and HelloRWA $IXOProtocoll platform.
+It require users to auth with Twitter, then generate MPC wallet. Also make a share action to twitter tood.
 
 ## What is ERC404Pro?
 
